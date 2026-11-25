@@ -43,7 +43,7 @@ Tool: Microsoft Excel
 - Consumer segment sales decreased by approximately 71.3%, while Corporate and Home Office segments recorded growth.
 
 ## Dashboard Preview
-
+[Sales Performance Dashboard](Dashboard_Screenshot 2026-11-25 164902.png)
 The Excel dashboard provides a visual summary of sales performance through:
 
 - Total Sales
